@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T19:56:40.051920+00:00",
+  "updatedAt": "2026-10-16T22:49:51.046369+00:00",
   "competition": "Brasileirao Serie A",
   "matches": [
     {
@@ -18892,7 +18892,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206800,
+          "name": "Bruno de Araújo",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
