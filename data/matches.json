@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T18:29:17.494773+00:00",
+  "updatedAt": "2026-10-17T21:26:44.470434+00:00",
   "competition": "Brasileirao Serie A",
   "matches": [
     {
@@ -18924,11 +18924,11 @@
       },
       "id": 555043,
       "utcDate": "2026-10-17T21:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-16T20:20:19Z",
+      "lastUpdated": "2026-10-17T21:25:45Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -18944,11 +18944,11 @@
         "crest": "https://crests.football-data.org/1772_large.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -18958,7 +18958,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11260,
+          "name": "Raphael Claus",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -19017,7 +19024,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 244605,
+          "name": "Davi de Oliveira Lacerda",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -19076,7 +19090,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206954,
+          "name": "Paulo Zanovelli da Silva",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
